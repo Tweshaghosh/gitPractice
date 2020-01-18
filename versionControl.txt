@@ -2,4 +2,4 @@
 
  As a programmer I would want my code to be saved so if I want to use a part of a code or even just to create another project I can go back to it.
 
- Commit messages helps everyone else know that a change was made in the file.
+ Commit messages helps everyone else know that a change was made in the file. It helps with finishing assignments.
